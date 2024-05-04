@@ -10,12 +10,12 @@
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://Wipeoutguild:<yorammal61@g.com>@cluster0.ryfi7fp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~DdTSQJeQ"
     },
     "MODE": {
       "description": "mode public or private",
@@ -30,22 +30,22 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "0ee4a18c-5da7-4045-8af4-1266ec564abc"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "Y O R A M"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
